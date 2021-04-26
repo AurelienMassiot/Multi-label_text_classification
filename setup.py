@@ -1,9 +1,12 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='demo_multilabel_classification',
     version='1.0',
-    packages=['src'],
+    packages=find_packages(),
+    package_data={
+        '': ['trained_models', 'trained_models/*.pkl']
+    },
     url='',
     license='bsd',
     author='aurelien.massiot & lea.naccache',
@@ -15,7 +18,8 @@ setup(
         'matplotlib',
         'scikit-learn',
         'plotly.express',
-        'streamlit'
+        'streamlit',
+        'watchdog'
     ],
     extras_require={
         'test': ['pytest',

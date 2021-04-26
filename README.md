@@ -15,14 +15,14 @@ conda activate demo_multi_label
 
 Enfin, installez les dépendances :
 ```bash
-pip install -e .
+pip install .
 ```
 
 ## 2 - Lancez le dashboard de prédictions
 Vous pouvez lancer le dashboard avec les modèles préentraînés sur le dataset [Toxic Comment](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 En exécutant la commande suivante, le dashboard sera lancé sur __localhost:8501__: 
 ```bash
-streamlit run src/ui/streamlit_prediction.py
+streamlit run demo_multilabel_classification/ui/streamlit_prediction.py
 ```
 
 ![Web-app demo prediction](images/streamlit_prediction.gif)
@@ -35,12 +35,12 @@ Il faut ensuite modifier les variables dans **src/conf/global_variables** pour p
 
 Puis lancez le dashboard avec la commande suivante : 
 ```bash
-streamlit run src/ui/streamlit_training.py
+streamlit run demo_multilabel_classification/ui/streamlit_training.py
 ```
 
 Ensuite, sélectionnez le dataset : 
 
 ![Web-app demo training](images/streamlit_training.png)
 
-Les modèles entraînés et le vectorizer utilisé pour le bag of words seront stockés dans le répertoire **models/**.  
+Les modèles entraînés et le vectorizer utilisé pour le bag of words seront stockés dans le répertoire **demo_multilabel_classification/trained_models/**.  
 Vous pouvez relancer l'autre dashboard pour utiliser vos modèles ;-).

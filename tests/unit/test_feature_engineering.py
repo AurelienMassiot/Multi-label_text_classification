@@ -1,4 +1,4 @@
-from src.data.feature_engineering import tokenize
+from demo_multilabel_classification.feature_engineering.feature_engineering import tokenize
 
 
 class TestFeatureEngineering:

@@ -1,1 +1,1 @@
-web: sh deploy_heroku.sh && streamlit run src/ui/streamlit_prediction.py
+web: sh deploy_heroku.sh && streamlit run demo_multilabel_classification/ui/streamlit_prediction.py
