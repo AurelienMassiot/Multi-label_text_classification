@@ -6,6 +6,8 @@ Le schéma global est le suivant :
 
 ![Meetup_crafting_DS](images/meetup_crafting_ds.png)
 
-Sachez qu'il est également possible de télécharger le fichier source pour l'ouvrir dans [Excalidraw] (https://excalidraw.com/).
+Sachez qu'il est également possible de télécharger le [fichier source](https://github.com/AurelienMassiot/Multi-label_text_classification/blob/master/images/meetup_crafting_ds.excalidraw) pour l'ouvrir dans [Excalidraw] (https://excalidraw.com/).
 
 ## Ressources utiles
+
+- ["Amener son projet de  machine learning jusqu’en production avec Wheel et Docker"](https://blog.octo.com/amener-son-projet-de-machine-learning-jusquen-production-avec-wheel-et-docker/)
