@@ -11,6 +11,7 @@ Sachez qu'il est également possible de télécharger le [fichier source](https:
 ## Ressources utiles
 
 - ["Amener son projet de machine learning jusqu’en production avec Wheel et Docker"](https://blog.octo.com/amener-son-projet-de-machine-learning-jusquen-production-avec-wheel-et-docker/)
+- [Setuptools : include data files](https://setuptools.readthedocs.io/en/latest/userguide/datafiles.html)
 - [Deployer une application Streamlit sur EC2](https://blog.jcharistech.com/2019/10/29/how-to-deploy-streamlit-apps-on-aws-ec2/)
 - [BD d'Aryana Pezé sur le Load Balancer](https://blog.octo.com/bd-le-load-balancer/)
 - [AWS : Qu'est-ce qu'un Application Load Balancer ?](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
