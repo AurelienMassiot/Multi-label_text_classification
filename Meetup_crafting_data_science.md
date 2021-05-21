@@ -10,4 +10,8 @@ Sachez qu'il est également possible de télécharger le [fichier source](https:
 
 ## Ressources utiles
 
-- ["Amener son projet de  machine learning jusqu’en production avec Wheel et Docker"](https://blog.octo.com/amener-son-projet-de-machine-learning-jusquen-production-avec-wheel-et-docker/)
+- ["Amener son projet de machine learning jusqu’en production avec Wheel et Docker"](https://blog.octo.com/amener-son-projet-de-machine-learning-jusquen-production-avec-wheel-et-docker/)
+- [Deployer une application Streamlit sur EC2](https://blog.jcharistech.com/2019/10/29/how-to-deploy-streamlit-apps-on-aws-ec2/)
+- [BD d'Aryana Pezé sur le Load Balancer](https://blog.octo.com/bd-le-load-balancer/)
+- [AWS : Qu'est-ce qu'un Application Load Balancer ?](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
+- [AWS : Présentation de Amazon Route 53](https://docs.aws.amazon.com/fr_fr/Route53/latest/DeveloperGuide/Welcome.html)
