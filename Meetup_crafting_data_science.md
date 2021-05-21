@@ -15,3 +15,4 @@ Sachez qu'il est également possible de télécharger le [fichier source](https:
 - [BD d'Aryana Pezé sur le Load Balancer](https://blog.octo.com/bd-le-load-balancer/)
 - [AWS : Qu'est-ce qu'un Application Load Balancer ?](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
 - [AWS : Présentation de Amazon Route 53](https://docs.aws.amazon.com/fr_fr/Route53/latest/DeveloperGuide/Welcome.html)
+- [AWS : les 5 piliers du "Well-Architected Framework"](https://aws.amazon.com/fr/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/)
