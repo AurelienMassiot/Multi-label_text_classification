@@ -4,11 +4,22 @@ Ce repository est utilisé pour un talk lors du [Meetup Crafting Data Science #6
 ## Schéma global
 Le schéma global est le suivant : 
 
+1
 ![Meetup_1](images/meetup_1.png)
+---------------------------------
+2
 ![Meetup_2](images/meetup_2.png)
+---------------------------------
+3
 ![Meetup_3](images/meetup_3.png)
+---------------------------------
+4
 ![Meetup_4](images/meetup_4.png)
+---------------------------------
+5
 ![Meetup_5](images/meetup_5.png)
+---------------------------------
+6
 ![Meetup_6](images/meetup_6.png)
 
 Sachez qu'il est également possible de télécharger le [fichier source](https://github.com/AurelienMassiot/Multi-label_text_classification/blob/master/images/meetup_crafting_ds.excalidraw) pour l'ouvrir dans [Excalidraw](https://excalidraw.com/).
